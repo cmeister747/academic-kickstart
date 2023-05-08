@@ -23,12 +23,12 @@ fi
 git commit -m "$msg"
 
 # Push source and build repos.
-git push origin master
+git push origin main
 
 cd ..
 git add -A
 git commit -m "$msg"
-git push origin master
+git push origin main
 
 # SOURCE='.'
 # DESTINATION=public/
