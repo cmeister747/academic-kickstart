@@ -74,7 +74,7 @@ I'm a PhD student in Computer Science with [Professor Ryan Cotterell](https://ry
 
 I have had the privelage of serving as the advisor for several MSc students during the writing of their theses. Some of these theses have turned into published works.
 
-* **Luca Malugatti**: *Divergence functions for Natural Language Generation*
+* **Luca Malagutti**: *Divergence functions for Natural Language Generation*
 * **Liam van der Poel**: *Mutual Information for Identifying and Preventing Hallucinations in Abstractive Summarization* ([EMNLP Paper](https://aclanthology.org/2022.emnlp-main.399/))
 * **Andy Buinovskij**: *Advanced Smoothing Techniques for Training Neural Language Model*
 * **Samuel Pullely**: *Text Detoxification using Pre-Trained Language Models and Plug-and-Play Generation Methods*
