@@ -72,7 +72,7 @@ highlight_name: false
 ---
 I'm a PhD student in Computer Science with [Professor Ryan Cotterell](https://rycolab.io/authors/ryan/) at ETH Zürich, supported by a Google PhD Fellowship. I am passionate about the general application of statistics and information theory to natural language processing. A large portion of my research in the last years has been on natural language generation---specifically, on decoding methods for probabilistic models. In my free time, I go rock climbing, trail running, and just about everything that [falls in between the two](https://www.pinterest.com/pin/254171972697256670/). You can check out some of my adventures on my husband's [instagram](https://www.instagram.com/timaiken/). I am a proud member of the [Akademischer Alpenclub Zürich](https://aacz.ethz.ch/). 
 
-I have had the privelage of serving as the advisor for several MSc students during the writing of their theses. Some of these theses have turned into published works.
+I have had the privilege of serving as the advisor for several MSc students during the writing of their theses. Some of these theses have turned into published works.
 
 * **Luca Malagutti**: *Divergence functions for Natural Language Generation*
 * **Liam van der Poel**: *Mutual Information for Identifying and Preventing Hallucinations in Abstractive Summarization* ([EMNLP Paper](https://aclanthology.org/2022.emnlp-main.399/))
