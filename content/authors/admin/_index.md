@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Student in Computer Science
+role: Postdoc in Computer Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -30,11 +30,11 @@ education:
 bio: My research interests include decoding methods for sequence models and the general applications of information theory and statistics to NLP
 
 # Interests to show in About widget
-interests:
-- Natural Language Generation
-- Statistical Methods for NLP
-- Information Theory 
-- Psycholinguistics
+# interests:
+# - Natural Language Generation
+# - Statistical Methods for NLP
+# - Information Theory 
+# - Psycholinguistics
 
 
 # Social/Academic Networking
@@ -70,9 +70,10 @@ email: ""
 highlight_name: false
 
 ---
-I'm a PhD student in Computer Science with [Professor Ryan Cotterell](https://rycolab.io/authors/ryan/) at ETH Zürich, supported by a Google PhD Fellowship. I am passionate about the general application of statistics and information theory to natural language processing. A large portion of my research in the last years has been on natural language generation---specifically, on decoding methods for probabilistic models. In my free time, I go rock climbing, trail running, and just about everything that [falls in between the two](https://www.pinterest.com/pin/254171972697256670/). I am a proud member of the [Akademischer Alpenclub Zürich](https://aacz.ethz.ch/). 
+I'm a postdoc at ETH Zürich in the computer science department, working with Prof. Bernd Gärtner to design a [Masters of Advanced Studies in AI and Data Technologies](https://mas-aid.ethz.ch/).  Previously, I did my PhD at ETH supported by a Google PhD Fellowship in natural language processing. A large portion of my research in the last years has been on natural language generation---specifically, on decoding methods for probabilistic models. While my job is no longer research-related, I still occasionally work on research projects; see my [Google Scholar](https://scholar.google.com/citations?user=quJhNH8AAAAJ&hl=en) page for an up-to-date list of publications. 
+<!-- In my free time, I like to rock climb, trail run and drink wine.  -->
 
-I have had the privilege of serving as the advisor for several MSc students during the writing of their theses. Some of these theses have turned into published works.
+<!-- I have had the privilege of serving as the advisor for several MSc students during the writing of their theses. Some of these theses have turned into published works.
 
 * **Luca Malagutti**: *Divergence functions for Natural Language Generation*
 * **Liam van der Poel**: *Mutual Information for Identifying and Preventing Hallucinations in Abstractive Summarization* ([EMNLP Paper](https://aclanthology.org/2022.emnlp-main.399/))
@@ -84,3 +85,4 @@ I have had the privilege of serving as the advisor for several MSc students duri
 * **Afra Amini**: *Causal Probing for Gender Differences in Contextual Word Representations* ([TACL Paper](https://arxiv.org/abs/2205.07043))
 * **Martina Forster**: *Search Errors in Morphological Inflection Generation Systems* ([EACL Paper](https://aclanthology.org/2021.eacl-main.118/))
 * **Stefan Lasov**: *Effects of Sparse Attention on Model Interpretability* ([EMNLP Paper](https://aclanthology.org/2021.acl-short.17.pdf))
+ -->

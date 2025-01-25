@@ -25,14 +25,23 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Postdoc
+          company: ETH Zürich
+          company_url: 
+          location: Zürich, Switzerland
+          date_start: 2020-09-01
+          date_end: 
+          description: Postdoc designing an AI project course for the AI and Data Technologies MAS degree.
+
         - title: PhD Student
           company: ETH Zürich
           company_url: 
           location: Zürich, Switzerland
           date_start: 2020-02-01
-          date_end: 
+          date_end: 2024-11-05
           description: PhD student in the Computer Science Department (Machine Learning Institute). Helped to design and teach the [Natural Language Processing course](https://rycolab.io/classes/intro-nlp-f22/) as well as the [Large Language Models course](https://rycolab.io/classes/llm-s23/).
 
+        
         - title: Research Scientist Intern
           company: DeepMind
           company_url: 
@@ -86,7 +95,7 @@ sections:
     id: publications
     content:
       title: Publications
-      text: |-
+      text:  __I do not keep this updated; see my [Google Scholar](https://scholar.google.com/citations?user=quJhNH8AAAAJ&hl=en) page for an up-to-date list of publications.__
       filters:
         folders:
           - publication
