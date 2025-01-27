@@ -39,7 +39,7 @@ sections:
           location: Zürich, Switzerland
           date_start: 2020-02-01
           date_end: 2024-11-05
-          description: PhD student in the Computer Science Department (Machine Learning Institute). Helped to design and teach the [Natural Language Processing course](https://rycolab.io/classes/intro-nlp-f22/) as well as the [Large Language Models course](https://rycolab.io/classes/llm-s23/).
+          description: PhD student in the Computer Science Department (Machine Learning Institute). Helped to design and teach the [Natural Language Processing course](https://rycolab.io/classes/intro-nlp-f22/) and develop material for the [Large Language Models course](https://rycolab.io/classes/llm-s23/). Advised 13 MsC theses and various semester research projects.
 
         
         - title: Research Scientist Intern

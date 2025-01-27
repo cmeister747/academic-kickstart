@@ -19,6 +19,9 @@ organizations:
 
 education:
   courses:
+  - course: PhD in Computer Science
+    institution: ETH Zürich
+    year: 2024
   - course: MSc in Computational and Mathematical Engineering
     institution: Stanford University
     year: 2018
@@ -70,11 +73,11 @@ email: ""
 highlight_name: false
 
 ---
-I'm a postdoc at ETH Zürich in the computer science department, working with Prof. Bernd Gärtner to design a [Masters of Advanced Studies in AI and Data Technologies](https://mas-aid.ethz.ch/).  Previously, I did my PhD at ETH supported by a Google PhD Fellowship in natural language processing. A large portion of my research in the last years has been on natural language generation---specifically, on decoding methods for probabilistic models. While my job is no longer research-related, I still occasionally work on research projects; see my [Google Scholar](https://scholar.google.com/citations?user=quJhNH8AAAAJ&hl=en) page for an up-to-date list of publications. 
+I'm a postdoc at ETH Zürich in the computer science department, working with Prof. Bernd Gärtner to design a [Masters of Advanced Studies in AI and Data Technologies](https://mas-aid.ethz.ch/).  Previously, I did my PhD at ETH supported by a Google PhD Fellowship in natural language processing. A large portion of my research in the last years has been on natural language generation---specifically, on decoding methods for probabilistic models. While my job is no longer research-related, I still occasionally work on research projects; see my [Google Scholar](https://scholar.google.com/citations?user=quJhNH8AAAAJ&hl=en) page for an up-to-date list of publications. Lately, I'm particularly interested in tokenization strategies for language models. Feel free to reach out if you'd like to discuss research! 
 <!-- In my free time, I like to rock climb, trail run and drink wine.  -->
 
 <!-- I have had the privilege of serving as the advisor for several MSc students during the writing of their theses. Some of these theses have turned into published works.
-
+Gabriel/Wayne/UZH girl
 * **Luca Malagutti**: *Divergence functions for Natural Language Generation*
 * **Liam van der Poel**: *Mutual Information for Identifying and Preventing Hallucinations in Abstractive Summarization* ([EMNLP Paper](https://aclanthology.org/2022.emnlp-main.399/))
 * **Andy Buinovskij**: *Advanced Smoothing Techniques for Training Neural Language Model*
